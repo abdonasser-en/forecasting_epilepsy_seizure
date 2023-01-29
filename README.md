@@ -6,7 +6,7 @@ Then, I created and established the neural network model. It is a convolutional 
 
 The description below come from American Epilepsy Society Seizure Prediction Challenge: 
 
-#**Dataset decription from Kaggle**:
+## **Dataset decription from Kaggle**:
 Intracranial EEG (iEEG) data clips are organized in folders containing training and testing data for each human or canine subject. The training data is organized into ten minute EEG clips labeled "Preictal" for pre-seizure data segments, or "Interictal" for non-seizure data segments. Training data segments are numbered sequentially, while testing data are in random order. Within folders data segments are stored in .mat files as follow:
 
 - preictal_segment_N.mat - the Nth preictal training data segment
